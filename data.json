@@ -1,0 +1,280 @@
+[
+    {
+        "id": 1,
+        "data": "2026-03-12",
+        "data_exibicao": "12/03",
+        "titulo": "Decisão do Tema e Inscrição",
+        "conteudo": "Decisão do tema do projeto e realização da inscrição na Escola Aberta. Também foi definida a professora orientadora responsável por acompanhar o desenvolvimento do trabalho, sendo discutidas as primeiras ideias sobre os objetivos e a proposta do projeto.",
+        "tags": [
+            "planejamento",
+            "escola-aberta"
+        ],
+        "midia": []
+    },
+    {
+        "id": 2,
+        "data": "2026-03-16",
+        "data_exibicao": "16/03",
+        "titulo": "Início do Trabalho Escrito",
+        "conteudo": "Pagamento da inscrição da Escola Aberta e início da elaboração do trabalho escrito. O grupo realizou pesquisas sobre o tema escolhido, buscando referências confiáveis e organizando a estrutura inicial do relatório.",
+        "tags": [
+            "pesquisa",
+            "relatorio"
+        ],
+        "midia": []
+    },
+    {
+        "id": 3,
+        "data": "2026-03-23",
+        "data_exibicao": "23/03",
+        "titulo": "Reunião com Especialista",
+        "conteudo": "Primeira reunião do grupo com Diego Boufleuer, engenheiro de automação. Durante o encontro foram discutidas as possibilidades de desenvolvimento da gravadora a laser, o design do equipamento, os componentes necessários e um cronograma inicial de execução.",
+        "tags": [
+            "mentoria",
+            "engenharia"
+        ],
+        "midia": [
+            "assets/datas/diego.png"
+        ]
+    },
+    {
+        "id": 4,
+        "data": "2026-04-06",
+        "data_exibicao": "06/04",
+        "titulo": "Planejamento e Compras",
+        "conteudo": "Planejamento detalhado da gravadora a laser e definição da lista de materiais necessários para sua construção. Foi realizada a compra das primeiras peças, além da continuação da escrita da fundamentação teórica do trabalho.",
+        "tags": [
+            "materiais",
+            "teoria"
+        ],
+        "midia": []
+    },
+    {
+        "id": 5,
+        "data": "2026-04-13",
+        "data_exibicao": "13/04",
+        "titulo": "Recebimento de Componentes",
+        "conteudo": "Recebimento de parte dos componentes adquiridos e conferência de todos os materiais. O grupo organizou as peças e revisou o projeto mecânico para verificar se seriam necessários ajustes antes da montagem.",
+        "tags": [
+            "logistica",
+            "hardware"
+        ],
+        "midia": [
+
+            "assets/datas/compra.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "data": "2026-04-20",
+        "data_exibicao": "20/04",
+        "titulo": "Início da Montagem Mecânica",
+        "conteudo": "Início da montagem da estrutura da gravadora a laser. Durante a montagem foram identificados pequenos desafios relacionados ao alinhamento das peças, que foram solucionados por meio de adaptações no projeto.",
+        "tags": [
+            "montagem",
+            "desafios"
+        ],
+        "midia": [
+
+        "assets/datas/Foto.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "data": "2026-04-27",
+        "data_exibicao": "27/04",
+        "titulo": "Estrutura e Documentação",
+        "conteudo": "Continuação da montagem da estrutura mecânica e preparação para a instalação dos componentes eletrônicos. Paralelamente, foram feitas atualizações na documentação do projeto, registrando todas as etapas realizadas até o momento.",
+        "tags": [
+            "mecanica",
+            "registro"
+        ],
+        "midia": []
+    },
+    {
+        "id": 8,
+        "data": "2026-05-04",
+        "data_exibicao": "04/05",
+        "titulo": "Instalação de Motores",
+        "conteudo": "Instalação dos motores de passo, guias lineares e demais componentes responsáveis pela movimentação da máquina. Foram realizados testes manuais para verificar o deslocamento dos eixos e garantir o correto funcionamento da estrutura.",
+        "tags": [
+            "motores",
+            "movimentacao"
+        ],
+        "midia": []
+    },
+    {
+        "id": 9,
+        "data": "2026-05-11",
+        "data_exibicao": "11/05",
+        "titulo": "Montagem Elétrica",
+        "conteudo": "Início da montagem da parte elétrica da gravadora. Foram feitas as conexões entre a fonte de alimentação, drivers, placa controladora e motores, seguindo os esquemas elétricos previamente definidos.",
+        "tags": [
+            "eletrica",
+            "circuitos"
+        ],
+        "midia": []
+    },
+    {
+        "id": 10,
+        "data": "2026-05-18",
+        "data_exibicao": "18/05",
+        "titulo": "Testes de Alimentação",
+        "conteudo": "Primeiros testes de alimentação elétrica do equipamento. Foram identificadas pequenas falhas de conexão que precisaram ser corrigidas antes da energização completa do sistema. O grupo também deu continuidade à redação do trabalho escrito.",
+        "tags": [
+            "testes",
+            "correcao"
+        ],
+        "midia": [
+            "assets/datas/Fonte.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "data": "2026-05-25",
+        "data_exibicao": "25/05",
+        "titulo": "Instalação do Módulo Laser",
+        "conteudo": "Instalação do módulo laser e estudo sobre os procedimentos de segurança necessários para sua utilização. Foram pesquisadas configurações recomendadas de potência, velocidade e foco para diferentes materiais.",
+        "tags": [
+            "laser",
+            "seguranca"
+        ],
+        "midia": []
+    },
+    {
+        "id": 12,
+        "data": "2026-06-01",
+        "data_exibicao": "01/06",
+        "titulo": "Testes de Software",
+        "conteudo": "Primeiros testes de movimentação da máquina utilizando o software de controle. Após alguns ajustes na configuração dos eixos, foi possível realizar movimentos com maior precisão.",
+        "tags": [
+            "software",
+            "controle"
+        ],
+        "midia": [
+
+            "assets/datas/Software.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "data": "2026-06-08",
+        "data_exibicao": "08/06",
+        "titulo": "Primeiras Gravações",
+        "conteudo": "Primeiros testes de gravação em materiais de baixa espessura. Foram avaliadas diferentes combinações de velocidade e potência do laser para identificar as configurações que proporcionavam melhores resultados.",
+        "tags": [
+            "gravacao",
+            "testes"
+        ],
+        "midia": []
+    },
+    {
+        "id": 14,
+        "data": "2026-06-09",
+        "data_exibicao": "09/06",
+        "titulo": "Visita Técnica ao SENAI",
+        "conteudo": "Visita técnica ao SENAI para conhecer uma gravadora a laser industrial em funcionamento. Durante a visita, o grupo pôde observar todo o processo de gravação, desde a preparação do equipamento até a execução das peças, além de esclarecer dúvidas sobre configuração, segurança, manutenção e funcionamento da máquina. A experiência serviu como referência para aprimorar o desenvolvimento do nosso projeto.",
+        "tags": [
+            "senai",
+            "visita-tecnica"
+        ],
+        "midia": [
+
+            "assets/datas/Senai.jpg",
+            "assets/datas/Senai1.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "data": "2026-06-15",
+        "data_exibicao": "15/06",
+        "titulo": "Calibração e Mídia",
+        "conteudo": "Continuação dos testes práticos, com novos ajustes na calibração da máquina para melhorar a qualidade das gravações. Foram registrados fotos, vídeos e anotações para compor a apresentação final do projeto.",
+        "tags": [
+            "calibracao",
+            "midia"
+        ],
+        "midia": []
+    },
+    {
+        "id": 21,
+        "data": "2026-06-16",
+        "data_exibicao": "16/06",
+        "titulo": "Atualização do Diário",
+        "conteudo": "Continuação dos testes práticos na gravadora desenvolvida pelo grupo, realizando ajustes finos na calibração dos eixos, foco do laser e parâmetros de gravação. Também foram registradas imagens e informações que seriam utilizadas tanto no trabalho escrito quanto na apresentação.",
+        "tags": [
+            "atualizacao"
+        ],
+        "midia": []
+    },
+    {
+        "id": 16,
+        "data": "2026-06-19",
+        "data_exibicao": "19/06",
+        "titulo": "Gravação do Vídeo Pitch",
+        "conteudo": "Gravação do vídeo pitch do projeto. O grupo organizou o roteiro, distribuiu as falas entre os integrantes e realizou diversas tomadas para garantir uma apresentação clara, objetiva e que demonstrasse o funcionamento da gravadora a laser, bem como a importância e os resultados do projeto.",
+        "tags": [
+            "pitch",
+            "apresentacao"
+        ],
+        "midia": [
+            "assets/datas/Pitch.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "data": "2026-06-20",
+        "data_exibicao": "20/06",
+        "titulo": "Edição do Vídeo",
+        "conteudo": "Edição do vídeo pitch. Foram selecionadas as melhores gravações, adicionados cortes, legendas, imagens do desenvolvimento do projeto e ajustes de áudio, resultando em um material mais organizado e adequado para a apresentação na Escola Aberta.",
+        "tags": [
+            "edicao",
+            "video"
+        ],
+        "midia": [
+
+            "assets/datas/Edição.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "data": "2026-06-22",
+        "data_exibicao": "22/06",
+        "titulo": "Revisão Final do Texto",
+        "conteudo": "Revisão completa do trabalho escrito, incluindo correção de textos, atualização das referências bibliográficas e organização das imagens produzidas durante o desenvolvimento do projeto.",
+        "tags": [
+            "revisao",
+            "abnt"
+        ],
+        "midia": [
+
+            "assets/datas/Documento.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "data": "2026-06-29",
+        "data_exibicao": "29/06",
+        "titulo": "Testes Finais",
+        "conteudo": "Reunião do grupo para avaliar o andamento geral do projeto. Foram realizados testes finais de funcionamento da gravadora a laser, revisão dos objetivos alcançados e planejamento da apresentação para a banca avaliadora.",
+        "tags": [
+            "finalizacao",
+            "banca"
+        ],
+        "midia": [
+
+        ]
+    },
+    {
+        "id": 20,
+        "data": "2026-07-03",
+        "data_exibicao": "03/07",
+        "titulo": "Encerramento do Diário",
+        "conteudo": "Finalização do diário de bordo e revisão geral de toda a documentação produzida. O grupo realizou os últimos ajustes na gravadora, organizou os materiais que serão apresentados e definiu a divisão das falas entre os integrantes para a apresentação do projeto.",
+        "tags": [
+            "conclusao",
+            "escola-aberta"
+        ],
+        "midia": []
+    }
+]

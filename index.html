@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diário de Bordo | Gravadora a Laser</title>
+    <link rel="icon" type="image/png" href="assets/logobg.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <img src="assets/logo.png" class="main-logo">
+            </div>
+            <p>Diário de Bordo • Escola Aberta</p>
+            <div class="header-info">
+                <span>Projeto de autoria</span>
+            </div>
+        </div>
+    </header>
+
+    <div class="search-container">
+        <div class="container">
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    class="search-input" 
+                    placeholder="Pesquisar no diário..."
+                    aria-label="Pesquisar entradas do diário"
+                >
+                <button class="search-clear" id="clearSearch" title="Limpar pesquisa">✕</button>
+            </div>
+            <div class="search-results-info" id="searchInfo"></div>
+        </div>
+    </div>
+
+    <main class="container">
+        <div id="log-container">
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Gravadora a Laser - Projeto Escola Aberta</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
